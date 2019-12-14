@@ -372,10 +372,10 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
   // Creality Ender-3 w/ Triangle Lab V6 clone
-  #define DEFAULT_Kp 15.85
-  #define DEFAULT_Ki 2.73
-  #define DEFAULT_Kd 23.05
-  
+  #define DEFAULT_Kp 23.16
+  #define DEFAULT_Ki 3.33
+  #define DEFAULT_Kd 40.32
+
   // Ultimaker
   //#define DEFAULT_Kp 22.2
   //#define DEFAULT_Ki 1.08
